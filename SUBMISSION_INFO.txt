@@ -1,0 +1,22 @@
+OPERATING SYSTEMS PRACTICAL
+
+Student Name : Utsav Ratan
+Enrollment No: 2401010046
+Programme    : B.Tech CSE Core
+Section      : B
+Subject      : Operating Systems
+Practical    : File-System Interface and Implementation
+
+Project contains:
+- Controlled real Linux filesystem sandbox
+- File create/read/write/append/copy/rename/delete
+- Sequential and direct access
+- Single-level, two-level and tree directories
+- Contiguous, linked and indexed allocation
+- Bitmap and free-list management
+- File deletion and truncation
+- Unix-style permissions and access control
+- Integrated simulated filesystem
+- Consistency validation
+- Detailed intermediate traces
+- Automated tests
